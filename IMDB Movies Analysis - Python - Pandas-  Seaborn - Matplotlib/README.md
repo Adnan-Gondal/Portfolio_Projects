@@ -18,9 +18,8 @@ This project analyzes IMDb movie data by genres, focusing on trends in popularit
 - **Libraries**:
   - `pandas` for data manipulation
   - `seaborn` and `matplotlib` for visualizations
-  - `requests` and `BeautifulSoup` for web scraping, if required
   - `re` for regex-based text processing
   
 Install dependencies by running:
 ```bash
-pip install pandas seaborn matplotlib requests beautifulsoup4
+pip install pandas seaborn matplotlib
